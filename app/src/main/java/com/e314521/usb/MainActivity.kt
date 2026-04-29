@@ -19,6 +19,7 @@ import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 import androidx.activity.ComponentActivity
+import android.webkit.WebView
 
 class MainActivity : ComponentActivity() {
     private val TAG = "MyApp"
